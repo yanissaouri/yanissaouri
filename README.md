@@ -7,11 +7,6 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-en_cours-239120?style=flat&logo=csharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-en_cours-000000?style=flat&logo=unity&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-en_cours-47848F?style=flat&logo=electron&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-en_cours-02569B?style=flat&logo=flutter&logoColor=white)
 
 ## Ce que je fais
 - 🎓 Étudiant en Bac+2 filière logiciel
